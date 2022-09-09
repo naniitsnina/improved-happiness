@@ -1,3 +1,10 @@
+# Dear Leon
+
+I am currently going over how previous classes about MVC, I just launched a job board site that has over 200users and 20+ companies, so I was a bit preocupied. I didn't want to hand in empty homework but you said you were closing this link form, so I just have the skeleton of the project and will work continue working on it. I'll try to find people who are in the same position as me to work on this project. Thank you for understanding. 
+
+---
+
+
 # Install
 
 `npm install`
